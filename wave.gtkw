@@ -1,0 +1,37 @@
+[*]
+[*] GTKWave Analyzer v3.3.111 (w)1999-2020 BSI
+[*] Tue Nov  1 04:29:59 2022
+[*]
+[dumpfile] "/home/ioachimus/github/lab_comparch_sol/testbench-sc/wave.fst"
+[dumpfile_mtime] "Tue Nov  1 04:29:34 2022"
+[dumpfile_size] 107352
+[savefile] "/home/ioachimus/github/lab_comparch_sol/testbench-sc/wave.gtkw"
+[timestart] 0
+[size] 1920 1200
+[pos] -965 -32
+*0.000000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 313
+[signals_width] 183
+[sst_expanded] 1
+[sst_vpaned_height] 364
+@28
+TOP.clk_i
+@29
+TOP.rst_ni
+@28
+TOP.illegal_o
+@22
+TOP.io_hex0_o[31:0]
+TOP.io_hex1_o[31:0]
+TOP.io_hex2_o[31:0]
+TOP.io_hex3_o[31:0]
+TOP.io_hex4_o[31:0]
+TOP.io_hex5_o[31:0]
+TOP.io_hex6_o[31:0]
+TOP.io_hex7_o[31:0]
+TOP.io_lcd_o[31:0]
+TOP.io_ledg_o[31:0]
+TOP.io_ledr_o[31:0]
+TOP.io_sw_i[31:0]
+[pattern_trace] 1
+[pattern_trace] 0
